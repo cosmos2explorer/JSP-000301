@@ -1,0 +1,9 @@
+name = "JSP000301"
+version = "0.1.0"
+defaultTargets = ["JSP000301"]
+
+# Core-only proof: no external dependencies.
+# Verified with: lean JSP000301.lean  (Lean 4.34.1, exit 0)
+
+[[leanLib]]
+name = "JSP000301"
